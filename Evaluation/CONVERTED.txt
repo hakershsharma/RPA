@@ -1,0 +1,32 @@
+To
+RDGT2BCI001
+BDO PRIVATE BANK, INC. WEALTH
+ADVISORY AND TRUST GROUP AS TRUSTEE
+FOR VARIOUS INDIVIDUAL ACCOUNTS
+MEZZANINE FLOOR EQUITABLE TOWER 8751
+PASEO DE ROXAS 1226 MAKATI CITY
+Metropolitan Manila
+STMT-E CHK-P
+PhilippinesRBKPS201 AutoGen
+STATEMENT OF ACCOUNT - QUARTERLY
+Business Date : 12/28/2018 Print Date : 01/20/2019
+BP ID RDGT2BCI001 Account Number 1 Tax Code FTX
+Security ID GTCFXBND2023 Security Name GTCAP BONDS 2023
+Endorsing Agent
+RHGTCAP2023
+Maturity Date 02/27/2023 Coupon/Maturity Payment Bank Details SBBDO000000  -  000460210025
+PORTFOLIO HOLDINGS (OPENING BALANCE) 44,600,000.00
+PORTFOLIO HOLDINGS (CLOSING BALANCE) 44,600,000.00
+PORTFOLIO MARKET VALUE ON 12/28/2018 40,562,671.52
+TRANSACTIONS FOR THE PERIOD
+Transaction Reference TIME DESCRIPTION BOOKING DATE TRANSACTION BALANCE TYPE Debit/Cred BOOKING QUANTITY
+No Data Found
+Coupon/Maturity Payment Bank Details is the bank account you enrolled for receiving cash entitlements. If you have not yet enrolled one, it will display "SBDUMMY0000 - 99999". Please contact
+your agent to update this information.
+Tax Code descriptions: Tax Code pertains to the tax code for the account.  Please consult your agent for the meaning of your tax code.  Examples of frequently used tax codes and their meanings:  FTX
+= 20% Final Withholding Tax; NWT = No Withholding Tax; PH10 = Filipino 10%; RA10 = Resident Alien 10%.
+Portfolio Market Value is computed based on closing prices for listed securities. For unlisted securities, it is the same as the portfolio holdings.
+Please examine this document immediately. Details of client information reflected herein are in accordance with the information provided by you, the client, or your duly authorized agent (selling
+agent, broker or custodian). If no written notice of any error or request for correction is received by PDTC within twenty (20) days from report date, PDTC shall deem that the information contained in
+this document are confirmed to be correct and accurate.
+RBKPS201 01/20/2019 07:29:03 Page 2 of 2
