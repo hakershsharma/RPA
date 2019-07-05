@@ -1,0 +1,33 @@
+{
+  "name": "xmlfirst",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "DocumentFormat.OpenXml": "[2.9.1]",
+    "Microsoft.Web.Xdt": "[3.0.0]",
+    "UiPath.Excel.Activities": "[2.6.2]",
+    "UiPath.Mail.Activities": "[1.5.0]",
+    "UiPath.System.Activities": "[19.6.0]",
+    "UiPath.UIAutomation.Activities": "[19.6.0]",
+    "UiPath.WebAPI.Activities": "[1.4.2]",
+    "UiPathTeam.XML.Activities": "[1.0.0.2]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "19.6.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "expressionLanguage": "VisualBasic",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "webServices": []
+}
